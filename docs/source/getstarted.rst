@@ -6,6 +6,9 @@ December 20, 2021
 
    This project is under active development.
 
+.. raw:: html
+    <div class="gdlr-core-fluid-video-wrapper" style="padding-top: 56.25%;"><iframe width="560" height="315" src="https://www.youtube.com/embed/OiLJsJpG--g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
 Why Lattitude
 -------------
 Welcome to Lattitude and thanks for joining us! Don’t worry – this will not take a long time to get up and running. This video will walk you through the first steps of getting up and running on Lattitude in LESS THAN 5 MINUTES!
