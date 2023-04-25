@@ -17,6 +17,8 @@ Contents
 
    getstarted
    topics
+   schedulecall
    toremove
+   
       usage
       api
