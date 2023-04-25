@@ -16,5 +16,7 @@ Contents
 .. toctree::
 
    getstarted
-   usage
-   api
+   topics
+   toremove
+      usage
+      api
